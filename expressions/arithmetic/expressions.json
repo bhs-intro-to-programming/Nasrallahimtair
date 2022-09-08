@@ -54,5 +54,12 @@
     "answer": "66.43848257450951",
     "correct": false,
     "timestamp": 1662674328923
+  },
+  {
+    "name": "Ratio",
+    "canonical": "a / b",
+    "answer": "a/b",
+    "correct": true,
+    "timestamp": 1662674377796
   }
 ]
