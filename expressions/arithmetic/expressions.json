@@ -96,5 +96,12 @@
     "answer": "(a+b+c)/3",
     "correct": true,
     "timestamp": 1662674559442
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "ffu                                                                                              ",
+    "correct": false,
+    "timestamp": 1662676035496
   }
 ]
