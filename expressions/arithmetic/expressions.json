@@ -103,5 +103,12 @@
     "answer": "ffu                                                                                              ",
     "correct": false,
     "timestamp": 1662676035496
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "ffu                                                                                              ",
+    "correct": false,
+    "timestamp": 1662676035997
   }
 ]
