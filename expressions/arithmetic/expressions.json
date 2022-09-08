@@ -40,5 +40,12 @@
     "answer": "0.99250555726290552",
     "correct": false,
     "timestamp": 1662674267698
+  },
+  {
+    "name": "Ratio",
+    "canonical": "a / b",
+    "answer": "66.43848257450951-74",
+    "correct": false,
+    "timestamp": 1662674325755
   }
 ]
