@@ -5,5 +5,12 @@
     "answer": "A+B",
     "correct": false,
     "timestamp": 1663278830441
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a+b",
+    "correct": true,
+    "timestamp": 1663278845288
   }
 ]
