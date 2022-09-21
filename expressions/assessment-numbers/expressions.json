@@ -5,5 +5,12 @@
     "answer": "86400",
     "correct": true,
     "timestamp": 1663797344495
+  },
+  {
+    "name": "Product",
+    "canonical": "a * b",
+    "answer": "a+b",
+    "correct": false,
+    "timestamp": 1663797350303
   }
 ]
