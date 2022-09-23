@@ -61,5 +61,12 @@
     "answer": "2432+0",
     "correct": true,
     "timestamp": 1663970779302
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a+b",
+    "correct": true,
+    "timestamp": 1663970793559
   }
 ]
