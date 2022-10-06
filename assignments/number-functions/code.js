@@ -5,3 +5,7 @@ const AveragePound = (Weight, x) => {
 const add = (A,b) => {
   return (A+b) 
 }
+
+const subtract = (A,b) => {
+  return (A-b)
+}
