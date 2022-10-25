@@ -13,5 +13,5 @@
   "3",
   "xs[xs.length]",
   "3",
-  "Nothing, it’s a syntax error."
+  "undefined"
 ]
