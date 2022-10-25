@@ -11,5 +11,6 @@
   "When Math.random() returns a number greater than 0.01",
   "It tests whether limit is a prime number.",
   "3",
-  "xs[xs.length]"
+  "xs[xs.length]",
+  "3"
 ]
