@@ -15,5 +15,5 @@
   "3",
   "undefined",
   "xs[5]",
-  "100"
+  "Nothing, this code won’t run because xs was declared with const."
 ]
