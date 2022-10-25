@@ -7,5 +7,6 @@
   "It’s random but definitely at least 10.",
   "4",
   "4",
-  "The number of elements in the array x"
+  "The number of elements in the array x",
+  "When Math.random() returns a number greater than 0.01"
 ]
