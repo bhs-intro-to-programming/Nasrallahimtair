@@ -15,4 +15,5 @@ const multiply = (A,b) => {
 const divide = (A,b) => {
   return (A/b)
 }
-const mod
+const mod = (A,b) => {
+  return (A,b)
