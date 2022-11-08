@@ -19,6 +19,5 @@ const mod = (a2,b2) => {
   return (a2%b2)
 }
 const averageOfTwo = (a2,b2) => {
- 
- return (a2/b2)
+ return (a2+b2)/2
 }
