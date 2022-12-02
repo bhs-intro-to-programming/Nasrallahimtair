@@ -28,5 +28,5 @@ const distance = (a,b) => {
   return Math.abs(a-b)
 }
 const manhattanDistance = (x1,y1,x2,y2) => {
-return Math.abs(x1,y1/x2,y2)
+return Math.abs(x1,y1*x2,y2)
 }
