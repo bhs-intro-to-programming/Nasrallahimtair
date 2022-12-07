@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////
+/const///////////////////////////////////////////////////////////////////////
 // Pay no attention to the man behind the curtain. These functions are
 // ones you will use, some directly, some indirectly from the functions
 // you write. You don't need to understand them or change their code
