@@ -1,4 +1,4 @@
-const Averageweight = 9
+const Averageweight = (Pu)
 const emit = (a, b, product) => {
   console.log(`${a} times ${b} is ${product}`);
 };
