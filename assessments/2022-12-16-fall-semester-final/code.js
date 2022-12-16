@@ -25,7 +25,12 @@ const emit = (a, b, product) => {
 };
 
 /*
- * Log the object via console.log.
+ * Log the object via console
+ * 
+ * 
+ * 
+ * 
+ * 
  */
 const log = (x) => { console.log(x); }
 
