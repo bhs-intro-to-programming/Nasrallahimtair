@@ -1,4 +1,4 @@
-const 
+const averageweight 
 const emit = (a, b, product) => {
   console.log(`${a} times ${b} is ${product}`);
 };
