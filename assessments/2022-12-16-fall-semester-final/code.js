@@ -95,4 +95,5 @@ const pair = (a, b) => {
 // Math.sqrt(n) - a function that returns the square root of its argument
 
 ////////////////////////////////////////////////////////////////////////
-// Write your code here ...
+const TotalEggs = (a,b) => {
+  return Eggs  
