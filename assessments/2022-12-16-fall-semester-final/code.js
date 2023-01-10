@@ -25,7 +25,12 @@ const emit = (a, b, product) => {
 };
 
 /*
- * Log the object via console.log.
+ * Log the object via console
+ * 
+ * 
+ * 
+ * 
+ * 
  */
 const log = (x) => { console.log(x); }
 
@@ -95,4 +100,6 @@ const pair = (a, b) => {
 // Math.sqrt(n) - a function that returns the square root of its argument
 
 ////////////////////////////////////////////////////////////////////////
-// Write your code here ...
+const TotalEggs = (a,b) => {
+  return ()
+} 
